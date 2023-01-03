@@ -7,3 +7,12 @@ h2{
     text-decoration: underline wavy green;
 
 }
+div ul{
+    list-style-type: none;
+}
+
+  div ul li{
+    text-align: center;
+    text-decoration:underline wavy black;
+    font-size: 24px;
+}
